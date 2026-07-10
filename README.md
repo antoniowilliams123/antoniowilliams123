@@ -20,8 +20,13 @@ and I led enterprise Claude / agentic-AI adoption as a named AI subject-matter e
 | 🔔 **[job-alerts-pipeline](https://github.com/antoniowilliams123/job-alerts-pipeline)** | Cron ingestion → deterministic rubric scoring → Telegram digest, with a decision ledger |
 | 🖥️ **NinjaTrader indicator** | C# real-time session/level rendering on NinjaTrader 8 — commercial product, source private. Screenshots below. |
 
-<!-- NT8 screenshots drop in here (Tony: 2-3 captures from the Windows side)
-![QE Full-Day Sessions indicator on NT8](assets/nt8-1.png)
--->
+### NinjaTrader indicator (C#) — commercial product, source private
+
+Real-time session/level rendering engine on NinjaTrader 8: Asia/London/NY session
+boxes, opening range, prior-period and 4-hour levels, drawn live as price prints.
+
+![Full-day sessions view, 3-minute](assets/nt8-fullday-3min.png)
+
+![Multi-day view, 15-minute](assets/nt8-week-15min.png)
 
 📫 [LinkedIn](https://www.linkedin.com/in/tonydwilliams1)
