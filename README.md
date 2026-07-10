@@ -19,16 +19,6 @@
 
 <br/><br/>
 
-<img src="assets/nt8-fullday-3min.png" width="100%" alt="Commercial NinjaTrader 8 indicator (C#): full-day session boxes, opening range, prior-period and 4-hour levels — 3-minute chart"/>
-
-<sub><b>QE Full-Day Sessions</b> — commercial C# indicator on NinjaTrader 8. Session boxes, opening range, and prior-period levels drawn live as price prints. Source private; happy to walk through the architecture in an interview.</sub>
-
-<br/><br/>
-
-<img src="assets/nt8-week-15min.png" width="100%" alt="The same indicator across a full trading week on the 15-minute chart"/>
-
-<br/><br/>
-
 **17 years** in healthcare-payer finance & analytics — Anthem, Aon, Willis Towers Watson, BCBS-NC, Wellnecity — building the pipelines, reconciliation systems, and self-serve reporting that take manual work off analyst teams. Named AI SME for enterprise Claude/agentic adoption.
 
 Python (pandas · NumPy) &nbsp;·&nbsp; SQL (Snowflake · Teradata · BigQuery · Postgres) &nbsp;·&nbsp; dbt &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Claude & LLM tooling
