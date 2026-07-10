@@ -1,32 +1,44 @@
-# Tony Williams
+<div align="center">
 
-**Senior Data Engineer / BI Developer — healthcare finance & analytics · Atlanta, GA**
+<img src="assets/banner.svg" width="100%" alt="Tony Williams — Senior Data Engineer / BI Developer. 17 years turning healthcare and market data into decisions."/>
 
-17+ years turning healthcare claims, membership, and financial data into decisions — at
-Anthem, Aon, Willis Towers Watson, BCBS-NC, and Wellnecity. I build the pipelines,
-reconciliation systems, and self-serve reporting that take manual work off analyst teams,
-and I led enterprise Claude / agentic-AI adoption as a named AI subject-matter expert.
+<img src="assets/status.svg" width="100%" alt="17 years healthcare analytics · 6 public systems · 132 automated tests passing · 2 live platforms shipped"/>
 
-**What I work with:** Python (pandas / NumPy) · SQL (Snowflake, Teradata, BigQuery, Postgres) · Tableau · dbt · AWS · Claude & LLM tooling
+<br/><br/>
 
-### Featured work
+<table>
+<tr>
+<td><a href="https://github.com/antoniowilliams123/healthcare-cost-analytics"><img src="assets/card-healthcare.svg" width="100%" alt="healthcare-cost-analytics"/></a></td>
+<td><a href="https://github.com/antoniowilliams123/realtime-market-charting"><img src="assets/card-charting.svg" width="100%" alt="realtime-market-charting"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/antoniowilliams123/vectorized-backtest-engine"><img src="assets/card-engine.svg" width="100%" alt="vectorized-backtest-engine"/></a></td>
+<td><a href="https://github.com/antoniowilliams123/report-booklet-toolkit"><img src="assets/card-booklet.svg" width="100%" alt="report-booklet-toolkit"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/antoniowilliams123/job-alerts-pipeline"><img src="assets/card-alerts.svg" width="100%" alt="job-alerts-pipeline"/></a></td>
+<td><img src="assets/card-nt8.svg" width="100%" alt="NinjaTrader indicator — commercial product, source private"/></td>
+</tr>
+</table>
 
-| Project | What it shows |
-|---|---|
-| 🏥 **[healthcare-cost-analytics](https://github.com/antoniowilliams123/healthcare-cost-analytics)** | Medicare public-data pipeline: SQL/dbt models → cost-driver analysis → dashboard |
-| 📈 **[realtime-market-charting](https://github.com/antoniowilliams123/realtime-market-charting)** | Real-time multi-timeframe charting platform built from scratch — live data ingest, session/level engine, 15 years of history. *Personal data lab: markets are the best free high-volume dataset there is.* |
-| ⚡ **[vectorized-backtest-engine](https://github.com/antoniowilliams123/vectorized-backtest-engine)** | NumPy-vectorized time-series engine — billions of rows, 24-way parallelism, parquet outputs |
-| 📄 **[report-booklet-toolkit](https://github.com/antoniowilliams123/report-booklet-toolkit)** | Automated PDF report generation — covers, footers, print-safe layout, at scale |
-| 🔔 **[job-alerts-pipeline](https://github.com/antoniowilliams123/job-alerts-pipeline)** | Cron ingestion → deterministic rubric scoring → Telegram digest, with a decision ledger |
-| 🖥️ **NinjaTrader indicator** | C# real-time session/level rendering on NinjaTrader 8 — commercial product, source private. Screenshots below. |
+<img src="assets/code-ambient.gif" width="100%" alt=""/>
 
-### NinjaTrader indicator (C#) — commercial product, source private
+<br/><br/>
 
-Real-time session/level rendering engine on NinjaTrader 8: Asia/London/NY session
-boxes, opening range, prior-period and 4-hour levels, drawn live as price prints.
+<img src="assets/nt8-fullday-3min.png" width="100%" alt="Commercial NinjaTrader 8 indicator (C#): full-day session boxes, opening range, prior-period and 4-hour levels — 3-minute chart"/>
 
-![Full-day sessions view, 3-minute](assets/nt8-fullday-3min.png)
+<sub><b>QE Full-Day Sessions</b> — commercial C# indicator on NinjaTrader 8. Session boxes, opening range, and prior-period levels drawn live as price prints. Source private; happy to walk through the architecture in an interview.</sub>
 
-![Multi-day view, 15-minute](assets/nt8-week-15min.png)
+<br/><br/>
+
+<img src="assets/nt8-week-15min.png" width="100%" alt="The same indicator across a full trading week on the 15-minute chart"/>
+
+<br/><br/>
+
+**17 years** in healthcare-payer finance & analytics — Anthem, Aon, Willis Towers Watson, BCBS-NC, Wellnecity — building the pipelines, reconciliation systems, and self-serve reporting that take manual work off analyst teams. Named AI SME for enterprise Claude/agentic adoption.
+
+Python (pandas · NumPy) &nbsp;·&nbsp; SQL (Snowflake · Teradata · BigQuery · Postgres) &nbsp;·&nbsp; dbt &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Claude & LLM tooling
 
 📫 [LinkedIn](https://www.linkedin.com/in/tonydwilliams1)
+
+</div>

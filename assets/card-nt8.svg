@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150" viewBox="0 0 500 150">
+<rect x="1" y="1" width="498" height="148" rx="12" fill="#151c26" stroke="#26303d" stroke-width="1.5"/>
+<rect x="1" y="1" width="4" height="148" rx="2" fill="#f23645"/>
+<text x="22" y="30" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#f23645" letter-spacing="2">C# · NINJATRADER 8</text>
+<text x="20" y="58" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="650" fill="#e8edf4">QE Full-Day Sessions</text>
+<text x="21" y="81" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b98a9">Commercial real-time session/level indicator.</text>
+<text x="21" y="98" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b98a9">Source private — screenshots below.</text>
+<rect x="20" y="112" width="32.4" height="22" rx="11" fill="none" stroke="#4b9cd3" opacity="0.85"/><text x="36.2" y="127" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#4b9cd3" text-anchor="middle">c#</text><rect x="62.4" y="112" width="90.0" height="22" rx="11" fill="none" stroke="#f23645" opacity="0.85"/><text x="107.4" y="127" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#f23645" text-anchor="middle">commercial</text><rect x="162.4" y="112" width="104.4" height="22" rx="11" fill="none" stroke="#8b98a9" opacity="0.85"/><text x="214.60000000000002" y="127" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#8b98a9" text-anchor="middle">live product</text>
+<g transform="translate(428,32)" opacity="0.9"><rect x="0" y="8" width="44" height="30" rx="4" fill="none" stroke="#8b98a9" stroke-width="2"/><rect x="6" y="14" width="12" height="18" fill="#4b9cd3" opacity="0.5"/><rect x="24" y="14" width="14" height="18" fill="#0a9e86" opacity="0.5"/></g>
+</svg>
