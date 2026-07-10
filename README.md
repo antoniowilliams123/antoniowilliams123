@@ -23,6 +23,6 @@
 
 Python (pandas · NumPy) &nbsp;·&nbsp; SQL (Snowflake · Teradata · BigQuery · Postgres) &nbsp;·&nbsp; dbt &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Claude & LLM tooling
 
-📫 [LinkedIn](https://www.linkedin.com/in/tonydwilliams1)
+🌐 [antoniowilliams123.github.io](https://antoniowilliams123.github.io) &nbsp;·&nbsp; 📫 [LinkedIn](https://www.linkedin.com/in/tonydwilliams1)
 
 </div>
