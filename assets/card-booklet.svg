@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150" viewBox="0 0 500 150">
+<rect x="1" y="1" width="498" height="148" rx="12" fill="#151c26" stroke="#26303d" stroke-width="1.5"/>
+<rect x="1" y="1" width="4" height="148" rx="2" fill="#8b98a9"/>
+<text x="22" y="30" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#8b98a9" letter-spacing="2">DOCUMENT AUTOMATION</text>
+<text x="20" y="58" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="650" fill="#e8edf4">report-booklet-toolkit</text>
+<text x="21" y="81" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b98a9">Print-safe, hyperlinked multi-page PDF reports —</text>
+<text x="21" y="98" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b98a9">raster pages with a vector link overlay, at scale.</text>
+<rect x="20" y="112" width="61.2" height="22" rx="11" fill="none" stroke="#4b9cd3" opacity="0.85"/><text x="50.6" y="127" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#4b9cd3" text-anchor="middle">python</text><rect x="91.2" y="112" width="68.4" height="22" rx="11" fill="none" stroke="#0a9e86" opacity="0.85"/><text x="125.4" y="127" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#0a9e86" text-anchor="middle">6 tests</text><rect x="169.60000000000002" y="112" width="90.0" height="22" rx="11" fill="none" stroke="#8b98a9" opacity="0.85"/><text x="214.60000000000002" y="127" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#8b98a9" text-anchor="middle">sample PDF</text>
+<g transform="translate(428,32)" opacity="0.9"><rect x="4" y="0" width="34" height="44" rx="4" fill="none" stroke="#8b98a9" stroke-width="2"/><line x1="11" y1="12" x2="31" y2="12" stroke="#8b98a9" stroke-width="2"/><line x1="11" y1="20" x2="31" y2="20" stroke="#8b98a9" stroke-width="2"/><line x1="11" y1="28" x2="24" y2="28" stroke="#0a9e86" stroke-width="2"/></g>
+</svg>
