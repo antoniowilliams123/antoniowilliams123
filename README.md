@@ -6,20 +6,14 @@
 
 <br/><br/>
 
-<table>
-<tr>
-<td><a href="https://github.com/antoniowilliams123/healthcare-cost-analytics"><img src="assets/card-healthcare.svg" width="100%" alt="healthcare-cost-analytics"/></a></td>
-<td><a href="https://github.com/antoniowilliams123/realtime-market-charting"><img src="assets/card-charting.svg" width="100%" alt="realtime-market-charting"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/antoniowilliams123/vectorized-backtest-engine"><img src="assets/card-engine.svg" width="100%" alt="vectorized-backtest-engine"/></a></td>
-<td><a href="https://github.com/antoniowilliams123/report-booklet-toolkit"><img src="assets/card-booklet.svg" width="100%" alt="report-booklet-toolkit"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/antoniowilliams123/job-alerts-pipeline"><img src="assets/card-alerts.svg" width="100%" alt="job-alerts-pipeline"/></a></td>
-<td><img src="assets/card-nt8.svg" width="100%" alt="NinjaTrader indicator — commercial product, source private"/></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/antoniowilliams123/healthcare-cost-analytics"><img src="assets/card-healthcare.svg" width="49.4%" alt="healthcare-cost-analytics"/></a>
+<a href="https://github.com/antoniowilliams123/realtime-market-charting"><img src="assets/card-charting.svg" width="49.4%" alt="realtime-market-charting"/></a>
+<a href="https://github.com/antoniowilliams123/vectorized-backtest-engine"><img src="assets/card-engine.svg" width="49.4%" alt="vectorized-backtest-engine"/></a>
+<a href="https://github.com/antoniowilliams123/report-booklet-toolkit"><img src="assets/card-booklet.svg" width="49.4%" alt="report-booklet-toolkit"/></a>
+<a href="https://github.com/antoniowilliams123/job-alerts-pipeline"><img src="assets/card-alerts.svg" width="49.4%" alt="job-alerts-pipeline"/></a>
+<img src="assets/card-nt8.svg" width="49.4%" alt="NinjaTrader indicator — commercial product, source private"/>
+</p>
 
 <img src="assets/code-ambient.gif" width="100%" alt=""/>
 
