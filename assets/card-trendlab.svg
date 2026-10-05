@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150" viewBox="0 0 500 150">
+<rect x="1" y="1" width="498" height="148" rx="12" fill="#151c26" stroke="#26303d" stroke-width="1.5"/>
+<rect x="1" y="1" width="4" height="148" rx="2" fill="#0a9e86"/>
+<text x="22" y="30" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#0a9e86" letter-spacing="2">AGENTIC · LLM HARNESS · TUI</text>
+<text x="20" y="58" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="650" fill="#e8edf4">trendlab-cli</text>
+<text x="21" y="81" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b98a9">Model-agnostic coding agent with a permission engine</text>
+<text x="21" y="98" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b98a9">and phone approvals. Plans, edits, tests, stops on evidence.</text>
+<rect x="20.0" y="112" width="82.8" height="22" rx="11" fill="none" stroke="#4b9cd3" opacity="0.85"/><text x="61.4" y="127" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#4b9cd3" text-anchor="middle">python</text><rect x="112.80000000000001" y="112" width="115.2" height="22" rx="11" fill="none" stroke="#0a9e86" opacity="0.85"/><text x="170.4" y="127" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#0a9e86" text-anchor="middle">196 tests</text><rect x="238.0" y="112" width="298.8" height="22" rx="11" fill="none" stroke="#8b98a9" opacity="0.85"/><text x="387.4" y="127" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#8b98a9" text-anchor="middle">claude · deepseek · ollama</text>
+<g transform="translate(426,36)" opacity="0.9"><rect x="1" y="1" width="46" height="38" rx="5" fill="none" stroke="#0a9e86" stroke-width="2"/><polyline points="10,13 18,20 10,27" fill="none" stroke="#0a9e86" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><rect x="22" y="25" width="14" height="3" fill="#0a9e86"/></g>
+</svg>
