@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Tony Williams — Senior Data Engineer / BI Developer. 17 years turning healthcare and market data into decisions."/>
 
-<img src="assets/status.svg" width="100%" alt="17 years healthcare analytics · 7 public systems · 328 automated tests passing · 2 live platforms shipped"/>
+<img src="assets/status.svg" width="100%" alt="17 years healthcare analytics · 7 public systems · 421 automated tests passing · 2 live platforms shipped"/>
 
 <br/><br/>
 
